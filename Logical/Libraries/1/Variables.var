@@ -1,0 +1,10 @@
+VAR
+	fb_regulator : FB_Regulator;
+	fb_motor : FB_Motor;
+	Speed : REAL;
+	Enable : BOOL;
+	t : REAL;
+	fb_motor1 : FB_Motor1;
+	ResPhi : REAL;
+	ResW : REAL;
+END_VAR
